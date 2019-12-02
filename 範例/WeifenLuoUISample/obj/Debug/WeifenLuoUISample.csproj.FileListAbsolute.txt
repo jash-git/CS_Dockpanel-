@@ -1,0 +1,21 @@
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\bin\Debug\WeifenLuoUISample.exe
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\bin\Debug\WeifenLuoUISample.pdb
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Form1.resources
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Form2.resources
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.MainWnd.resources
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Properties.Resources.resources
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.exe
+C:\Users\RD\Desktop\C# dockpanel\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.pdb
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.exe
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.pdb
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\bin\Debug\WeifenLuoUISample.exe
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\bin\Debug\WeifenLuoUISample.pdb
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.csprojResolveAssemblyReference.cache
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Form1.resources
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Form2.resources
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.MainWnd.resources
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.Properties.Resources.resources
+D:\Visual project code\C# Dockpanel(分割視窗)\範例\WeifenLuoUISample\obj\Debug\WeifenLuoUISample.csproj.GenerateResource.Cache
